@@ -1,1 +1,1 @@
-# index.thml
+# index.html
